@@ -6,7 +6,8 @@
 </p>
 
 <p align="center">
-  <strong>From Mexico 🇲🇽</strong> • Bilingual (English & Spanish) • Passionate about innovation, open-source and technology
+  <strong>From Mexico 🇲🇽</strong> • Bilingual (English 🇺🇸 & Spanish 🇪🇸)  
+  <br> Passionate about innovation, open-source and technology
 </p>
 
 ---
@@ -15,7 +16,7 @@
 
 **English:**  
 I am an Electronics Engineer focused on IoT, embedded systems, cloud connectivity and automation.  
-I enjoy building solutions where hardware, software, and networking work together in real-time.  
+I enjoy building solutions where hardware, software, and networking work together in real time.  
 I like engineering challenges that require innovation, problem-solving and real-world impact.
 
 **Español:**  
@@ -28,15 +29,18 @@ Me gustan los retos que impliquen innovación, resolución de problemas e impact
 ### 🧠 Tech Stack / Tecnologías
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,arduino,raspberrypi,linux,docker,mysql,sqlite,git,github,bash,gcp,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,arduino,raspberrypi,linux,docker,mysql,sqlite,git,github,bash,gcp,matlab,vscode,powershell,md,notion,wordpress,excel,word,ppt,solidworks" />
 </p>
 
-- **Embedded & IoT:** ESP32, Arduino, Raspberry Pi, MicroPython, CircuitPython  
-- **Protocols:** I2C, SPI, UART, MQTT, Modbus  
-- **Databases:** MySQL, SQLite, InfluxDB  
-- **Cloud & DevOps:** Google Cloud, Docker, Linux, VPN, Networking, CI/CD  
-- **Tools & Lab:** Oscilloscope, Function Generator, PCB Design & Manufacturing  
-- **Software:** Git, GitHub, GitLab, Bash, PowerPoint, Teams  
+
+**Electronic Design & CAD:** PCB Design, NI Multisim, Proteus, SOLIDWORKS  
+**Programming & Languages:** Bash, C, C++, Ladder Logic, MATLAB, NI LabVIEW, Python, SQL  
+**Embedded Systems:** Arduino IDE, ESP32, Raspberry Pi, Microchip PIC, MicroPython, NI DAQ  
+**Communication Protocols:** I2C, SPI, UART, MQTT, Modbus  
+**Cloud & DevOps:** Google Cloud Platform, Docker, Cloudflare Tunnels, SSH, Linux, Git/GitHub, Raspberry Pi Connect  
+**Databases:** MySQL, SQLite, InfluxDB  
+**Lab & Hardware:** Oscilloscope, Function Generator, Power Supply, Multimeter, THT Soldering, PCB Manufacturing  
+**Office & Productivity:** PowerPoint, Excel, Word, Canva, Notion, Microsoft Teams
 
 ---
 
@@ -44,27 +48,30 @@ Me gustan los retos que impliquen innovación, resolución de problemas e impact
 - Cloud & DevOps (Docker, pipelines, cloud deployments)
 - Automation, digital systems and industrial control
 - Data processing, APIs and real-time architectures
+- Industry 4.0: smart sensors, automation networks and data-driven systems
+
 
 ---
 
 ### 🌐 Languages / Idiomas
-- **English:** Professional fluency  
-- **Español:** Nativo
+- **English 🇺🇸:** Professional fluency  
+- **Spanish 🇪🇸:** Native
 
 > I write documentation, reports and code comments in both languages.
 
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramonmg12&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramonmg12&layout=compact&theme=tokyonight)
 
 ---
 
 ### 🎯 Goals / Metas
 - Grow as a professional in IoT, automation and smart systems  
 - Contribute to global engineering projects  
-- Keep learning and building meaningful technology
+- Keep learning and building meaningful technology  
+- Learn Chinese 🇨🇳 as a long-term personal and professional goal
 
 ---
 
