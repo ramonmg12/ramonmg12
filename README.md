@@ -29,7 +29,7 @@ Me gustan los retos que impliquen innovación, resolución de problemas e impact
 ### 🧠 Tech Stack / Tecnologías
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,arduino,raspberrypi,linux,docker,mysql,sqlite,git,github,bash,gcp,matlab,vscode,powershell,md,notion,wordpress,excel,word,ppt,solidworks" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,arduino,raspberrypi,linux,docker,mysql,sqlite,git,github,bash,gcp,matlab,vscode,powershell" />
 </p>
 
 
@@ -58,12 +58,6 @@ Me gustan los retos que impliquen innovación, resolución de problemas e impact
 - **Spanish 🇪🇸:** Native
 
 > I write documentation, reports and code comments in both languages.
-
----
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramonmg12&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramonmg12&layout=compact&theme=tokyonight)
 
 ---
 
