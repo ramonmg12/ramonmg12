@@ -1,12 +1,12 @@
 <h1 align="center">Hi there 👋 / Hola 👋</h1>
-<h2 align="center">I'm Ramón Morales</h2>
+<h2 align="center">I'm José Ramón Morales Gutiérrez</h2>
 
 <p align="center">
-  Electronics & Mechatronics Engineer • IoT & Embedded Systems • Automation • Cloud & DevOps
+  Electronics Engineer • IoT Development & Integration • Embedded Systems • Cloud & DevOps
 </p>
 
 <p align="center">
-  <strong>From Mexico 🇲🇽</strong> • Bilingual (English & Spanish) • Passion for innovation, open-source and technology
+  <strong>From Mexico 🇲🇽</strong> • Bilingual (English & Spanish) • Passionate about innovation, open-source and technology
 </p>
 
 ---
@@ -14,28 +14,36 @@
 ### 🌎 About Me / Sobre mí
 
 **English:**  
-I’m an Electronics Engineer focused on IoT, embedded systems, automation, and modern smart devices.  
-I enjoy creating solutions that combine hardware, software, connectivity, and clean software architectures.  
-I like challenges that involve creativity, engineering and real-world impact.
+I am an Electronics Engineer focused on IoT, embedded systems, cloud connectivity and automation.  
+I enjoy building solutions where hardware, software, and networking work together in real-time.  
+I like engineering challenges that require innovation, problem-solving and real-world impact.
 
 **Español:**  
-Soy ingeniero electrónico enfocado en IoT, sistemas embebidos, automatización y dispositivos inteligentes modernos.  
-Disfruto crear soluciones que combinen hardware, software, conectividad y arquitecturas bien diseñadas.  
-Me gustan los retos que impliquen creatividad, ingeniería y alto impacto tecnológico.
+Soy ingeniero electrónico enfocado en IoT, sistemas embebidos, conectividad a la nube y automatización.  
+Disfruto crear soluciones donde hardware, software y comunicación trabajen en tiempo real.  
+Me gustan los retos que impliquen innovación, resolución de problemas e impacto tecnológico.
 
 ---
 
 ### 🧠 Tech Stack / Tecnologías
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,html,css,react,nodejs,arduino,raspberrypi,linux,mysql,sqlite,docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,arduino,raspberrypi,linux,docker,mysql,sqlite,git,github,bash,gcp,vscode" />
 </p>
+
+- **Embedded & IoT:** ESP32, Arduino, Raspberry Pi, MicroPython, CircuitPython  
+- **Protocols:** I2C, SPI, UART, MQTT, Modbus  
+- **Databases:** MySQL, SQLite, InfluxDB  
+- **Cloud & DevOps:** Google Cloud, Docker, Linux, VPN, Networking, CI/CD  
+- **Tools & Lab:** Oscilloscope, Function Generator, PCB Design & Manufacturing  
+- **Software:** Git, GitHub, GitLab, Bash, PowerPoint, Teams  
 
 ---
 
 ### 📚 Currently Learning / Aprendiendo
 - Cloud & DevOps (Docker, pipelines, cloud deployments)
-- Control, automation & digital systems
-- Data, APIs and real-time architectures
+- Automation, digital systems and industrial control
+- Data processing, APIs and real-time architectures
 
 ---
 
@@ -43,7 +51,7 @@ Me gustan los retos que impliquen creatividad, ingeniería y alto impacto tecnol
 - **English:** Professional fluency  
 - **Español:** Nativo
 
-> I write documentation, reports, and code comments in both languages.
+> I write documentation, reports and code comments in both languages.
 
 ---
 
@@ -54,14 +62,14 @@ Me gustan los retos que impliquen creatividad, ingeniería y alto impacto tecnol
 ---
 
 ### 🎯 Goals / Metas
-- Grow as a professional in IoT, automation, and smart systems  
-- Collaborate in global engineering projects  
+- Grow as a professional in IoT, automation and smart systems  
+- Contribute to global engineering projects  
 - Keep learning and building meaningful technology
 
 ---
 
 ### 🤝 Contact
-- LinkedIn: https://www.linkedin.com/
-- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: https://www.linkedin.com/ramonmg12
+- GitHub: https://github.com/ramonmg12
 
 <h3 align="center">Thanks for visiting / ¡Gracias por visitar!</h3>
