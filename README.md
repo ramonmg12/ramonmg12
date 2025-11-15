@@ -29,7 +29,7 @@ Me gustan los retos que impliquen innovación, resolución de problemas e impact
 ### 🧠 Tech Stack / Tecnologías
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,arduino,raspberrypi,linux,docker,mysql,sqlite,git,github,bash,gcp,matlab,vscode,powershell" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,arduino,raspberrypi,linux,docker,mysql,sqlite,git,github,bash,gcp,matlab,vscode,powershell,labview" />
 </p>
 
 
