@@ -1,76 +1,55 @@
-<h1 align="center">Hi there 👋 / Hola 👋</h1>
-<h2 align="center">I'm José Ramón Morales Gutiérrez</h2>
+<h1 align="center">Hi, I'm Ramón 👋</h1>
 
 <p align="center">
-  Electronics Engineer • IoT Development & Integration • Embedded Systems • Cloud & DevOps
+  Electronics Engineer passionate about building reliable hardware and software solutions.
 </p>
 
 <p align="center">
-  <strong>From Mexico 🇲🇽</strong> • Bilingual (English 🇺🇸 & Spanish 🇪🇸)  
-  <br> Passionate about innovation, open-source and technology
+  Designing • Building • Learning
 </p>
 
 ---
 
-### 🌎 About Me / Sobre mí
+## About
 
-**English:**  
-I am an Electronics Engineer focused on IoT, embedded systems, cloud connectivity and automation.  
-I enjoy building solutions where hardware, software, and networking work together in real time.  
-I like engineering challenges that require innovation, problem-solving and real-world impact.
+I'm an Electronics Engineer who enjoys turning ideas into practical engineering projects. My interests include electronics design, embedded programming, hardware validation, and automation.
 
-**Español:**  
-Soy ingeniero electrónico enfocado en IoT, sistemas embebidos, conectividad a la nube y automatización.  
-Disfruto crear soluciones donde hardware, software y comunicación trabajen en tiempo real.  
-Me gustan los retos que impliquen innovación, resolución de problemas e impacto tecnológico.
+I believe the best way to learn is by building, so you'll find the projects I'm currently working on here.
 
 ---
 
-### 🧠 Tech Stack / Tecnologías
+## Technologies
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,arduino,raspberrypi,linux,docker,mysql,sqlite,git,github,bash,gcp,matlab,vscode,powershell,labview" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,matlab,git,linux,sqlite,vscode" />
 </p>
 
-
-**Electronic Design & CAD:** PCB Design, NI Multisim, Proteus, SOLIDWORKS  
-**Programming & Languages:** Bash, C, C++, Ladder Logic, MATLAB, NI LabVIEW, Python, SQL  
-**Embedded Systems:** Arduino IDE, ESP32, Raspberry Pi, Microchip PIC, MicroPython, NI DAQ  
-**Communication Protocols:** I2C, SPI, UART, MQTT, Modbus  
-**Cloud & DevOps:** Google Cloud Platform, Docker, Cloudflare Tunnels, SSH, Linux, Git/GitHub, Raspberry Pi Connect  
-**Databases:** MySQL, SQLite, InfluxDB  
-**Lab & Hardware:** Oscilloscope, Function Generator, Power Supply, Multimeter, THT Soldering, PCB Manufacturing  
-**Office & Productivity:** PowerPoint, Excel, Word, Canva, Notion, Microsoft Teams
+**Hardware**
+- Microcontrollers
+- Single-Board Computers
+- PCB Design
+- Circuit Simulation
+- Hardware Testing & Validation
 
 ---
 
-### 📚 Currently Learning / Aprendiendo
-- Cloud & DevOps (Docker, pipelines, cloud deployments)
-- Automation, digital systems and industrial control
-- Data processing, APIs and real-time architectures
-- Industry 4.0: smart sensors, automation networks and data-driven systems
+## Currently Learning
 
-
----
-
-### 🌐 Languages / Idiomas
-- **English 🇺🇸:** Professional fluency  
-- **Spanish 🇪🇸:** Native
-
-> I write documentation, reports and code comments in both languages.
+- Embedded Programming
+- Electronics Design
+- Industrial Automation
 
 ---
 
-### 🎯 Goals / Metas
-- Grow as a professional in IoT, automation and smart systems  
-- Contribute to global engineering projects  
-- Keep learning and building meaningful technology  
-- Learn Chinese 🇨🇳 as a long-term personal and professional goal
+## Featured Projects
+
+- Electronics & Embedded Systems
+- Hardware Validation
+- PCB Design
+- Automation Projects
 
 ---
 
-### 🤝 Contact
-- LinkedIn: https://www.linkedin.com/ramonmg12
-- GitHub: https://github.com/ramonmg12
-
-<h3 align="center">Thanks for visiting / ¡Gracias por visitar!</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/ramonmg12">LinkedIn</a>
+</p>
